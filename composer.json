@@ -1,0 +1,14 @@
+{
+    "name": "ulissesvaquero/mercadolivrerequisitor",
+    "description": "Biblioteca de integra\u0000\u0000o com o Mercado Livre",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ulisses Vaquero",
+            "email": "ulisses.vaquero@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
